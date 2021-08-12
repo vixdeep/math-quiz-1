@@ -1,13 +1,11 @@
 body
 {
-	background-image: url("https://i.ytimg.com/vi/Kp2bYWRQylk/maxresdefault.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+	background: #ce4a4a;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: rgb(232, 157, 255);
+		background: white;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -35,8 +33,4 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
-}
-.button1{
-	background-color: darkmagenta;
-    color: gold;
 }
